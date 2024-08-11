@@ -1,0 +1,3 @@
+[submodule "megaparsec"]
+	path = megaparsec
+	url = git@github.com:toxn/megaparsec.git
