@@ -1,4 +1,4 @@
-package jmegaparsec.error;
+package text.megaparsec.error;
 
 /**
  *  Module      :  megaparsec.error

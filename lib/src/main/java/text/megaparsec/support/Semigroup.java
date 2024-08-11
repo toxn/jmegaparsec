@@ -1,4 +1,4 @@
-package jmegaparsec.support;
+package text.megaparsec.support;
 
 import javax.annotation.Nonnull;
 

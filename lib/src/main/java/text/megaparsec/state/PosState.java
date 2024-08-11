@@ -1,4 +1,4 @@
-package jmegaparsec.state;
+package text.megaparsec.state;
 
 import java.nio.file.Path;
 

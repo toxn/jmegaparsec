@@ -1,4 +1,4 @@
-package jmegaparsec.error;
+package text.megaparsec.error;
 
 /**
  * Additional error data, extendable by user. When no custom data is

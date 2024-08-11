@@ -1,6 +1,6 @@
-package jmegaparsec.state;
+package text.megaparsec.state;
 
-import jmegaparsec.error.ParseError;
+import text.megaparsec.error.ParseError;
 
 import java.nio.file.Path;
 import java.util.ArrayList;

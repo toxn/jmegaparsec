@@ -1,10 +1,7 @@
-package jmegaparsec.error;
+package text.megaparsec.error;
 
-import jmegaparsec.Token;
-import jmegaparsec.support.Semigroup;
+import text.megaparsec.Token;
 
-import javax.annotation.Nonnull;
-import java.util.Comparator;
 import java.util.function.BinaryOperator;
 
 /**
